@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\users\wx\source\repos\牛客网刷题\前kk个高频单词\前kk个高频单词\main.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+d:\users\wx\source\repos\牛客网刷题\前kk个高频单词\前kk个高频单词\main.cpp(40): warning C4715: “Solution::topKFrequent”: 不是所有的控件路径都返回值
+  前kk个高频单词.vcxproj -> D:\Users\wx\source\repos\牛客网刷题\前kk个高频单词\Debug\前kk个高频单词.exe
